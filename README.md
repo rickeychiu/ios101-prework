@@ -12,21 +12,18 @@ The following **required** functionality is completed:
 
 - [ ] Users see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-### Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. It's okay if features repeat on different apps
+
+### Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. It's okay if features repeat on different apps.
 Instagram
 - Changing the background color of the messages screen
 - Deleting old messages
+  
 TikTok
 - ability to share videos to other applications
 - next video loads while watching current
+  
 YouTube
 - categorize videos based on tag
 - have different tabs for different things
